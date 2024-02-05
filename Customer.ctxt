@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=
+comment1.target=void\ signUp()
+comment2.params=
+comment2.target=java.lang.String\ getUsername()
+comment3.params=
+comment3.target=java.lang.String\ getPassword()
+numComments=4

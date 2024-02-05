@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TicketPrinter
+comment1.params=customer
+comment1.target=void\ displayTicketMenu(Customer)
+comment2.params=
+comment2.target=void\ displayMenu()
+comment3.params=choice\ customer
+comment3.target=void\ ticketChoice(int,\ Customer)
+comment4.params=customer
+comment4.target=void\ buyTicket(Customer)
+comment5.params=
+comment5.target=void\ displaySeatingChart()
+comment6.params=row\ seat
+comment6.target=boolean\ isValidSeat(int,\ int)
+comment7.params=row\ seat
+comment7.target=void\ markSeatAsTaken(int,\ int)
+comment8.params=choice
+comment8.target=java.lang.String\ getTicketType(int)
+comment9.params=ticketType
+comment9.target=int\ getTicketCost(java.lang.String)
+numComments=10
